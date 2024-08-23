@@ -1,8 +1,9 @@
-# __Organizaciones Tradicionales y Agiles__
+<u># __Organizaciones Tradicionales y Agiles__</u>
 
 ### Organizaciones Tradicionales:
 
 ![EsquemaDeOrganizacionTradicional](/capturas/1.jpg)
+
 SE HACE LO QUE DICE EL JEFE
 
 #### Ventajas del modelo tradicional
@@ -17,6 +18,7 @@ SE HACE LO QUE DICE EL JEFE
 ### Organizaciones Agiles
 
 ![EsquemaDeOrganizacionAgil](/capturas/2.jpg)
+
 Estructura plana, con menos niveles jerarquicos y mas redes de equipos interconectados
 
 #### Ventajas del modelo Agil
@@ -33,4 +35,4 @@ Estructura plana, con menos niveles jerarquicos y mas redes de equipos intercone
 __Las organizaciones tradicionales son preferidas en entornos estables y predecibles donde la eficiencia es critica.
 En cambio las organizaciones agiles son preferidas ante entornos dinamicos y cambiantes.__
 
->Las organizaciones no se transforman, son las personas que se transforman para cambiar las organizaciones
+>"Las organizaciones no se transforman, son las personas que se transforman para cambiar las organizaciones"
