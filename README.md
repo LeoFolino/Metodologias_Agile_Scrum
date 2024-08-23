@@ -1,4 +1,4 @@
-<u># __Organizaciones Tradicionales y Agiles__</u>
+# Organizaciones Tradicionales y Agiles
 
 ### Organizaciones Tradicionales:
 
@@ -30,9 +30,9 @@ Estructura plana, con menos niveles jerarquicos y mas redes de equipos intercone
 - Dificultad para instaurar una vision de equipo
 - Falta de procesos definidos
 
-## __Comparacion entre ambas metodologias:__
+## Comparacion entre ambas metodologias:
 
-__Las organizaciones tradicionales son preferidas en entornos estables y predecibles donde la eficiencia es critica.
-En cambio las organizaciones agiles son preferidas ante entornos dinamicos y cambiantes.__
+_Las organizaciones tradicionales son preferidas en entornos estables y predecibles donde la eficiencia es critica.
+En cambio las organizaciones agiles son preferidas ante entornos dinamicos y cambiantes._
 
 >"Las organizaciones no se transforman, son las personas que se transforman para cambiar las organizaciones"
