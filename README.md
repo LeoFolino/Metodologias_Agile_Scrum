@@ -99,3 +99,15 @@ Durante los 60 se presento la **crisis del software**. *En respuesta a esta cris
 
 ![AlineacionDeRasgosDeProyectosYMetodologias](/capturas/5.jpg)
 ![AlineacionDeRasgosDeProyectosYMetodologias2](/capturas/6.jpg)
+
+# Valores y Principios de la Agilidad:
+
+### Valores Agiles:
+El manifiesto Agil (Creado en 2001) fue elaborado por un grupo de expertos en desarrollo de software con el fin de discutir el enfoque de gestion mas adaptable y enfocado en las personas. **Centrado en las realidades cambiantes del entorno y reconocer que la flexibilidad, la comunicacion y colaboracion son las claves para el exito**
+Estos valores no solo ofrecen una guia para la creacion de software, sino que tambien **apunta a un cambio cultural en las organizaciones**, reflejan un cambio a una mayor agilidad en todas las areas de una empresa.
+
+#### El Manifiesto Agil:
+1. Individuos e interacciones sobre procesos y herramientas. (Resalta la importancia de las personas y sus interacciones en el equipo. En lugar de depender estrictamente de un software de gestion de proyectos, se fomenta la comunicacion directa, reuniones y sesiones de trabajo)
+2. Software funcional sobre documentacion exhaustiva.
+3. Colaboracion con el cliente sobre negociacion de contratos.
+4. Responder al cambio sobre seguir un plan.
