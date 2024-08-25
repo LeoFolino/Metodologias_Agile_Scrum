@@ -21,7 +21,7 @@
         - [Valores Agiles](#valores-agiles)  
         - [El Manifiesto Agil](#el-manifiesto-agil)  
         - [Principios Agiles](#principios-agiles)  
-   - [Reflexiones](#reflexiones)  
+  - [Reflexiones](#reflexiones)  
 
 3. [Cultura Agil](#cultura-agil)  
    - [Caracteristicas de Cultura Agil](#caracteristicas-de-cultura-agil)  
@@ -70,7 +70,8 @@ En cambio las organizaciones agiles son preferidas ante entornos dinamicos y cam
 
 >"Las organizaciones no se transforman, son las personas que se transforman para cambiar las organizaciones"  
 
-[Volver al índice](#índice)
+[Volver al índice](#índice)  
+
 ---
 
 # Evolucion de metodos de desarrollo de software
