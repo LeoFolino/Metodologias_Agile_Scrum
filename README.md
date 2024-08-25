@@ -1,31 +1,37 @@
 # Organizaciones Tradicionales y Agiles
+
 ## Índice
-- [Organizaciones Tradicionales y Agiles](#organizaciones-tradicionales-y-agiles)
-  - [Índice](#índice)
-    - [Organizaciones Tradicionales:](#organizaciones-tradicionales)
-      - [Ventajas del modelo tradicional](#ventajas-del-modelo-tradicional)
-      - [Desventajas del modelo tradicional](#desventajas-del-modelo-tradicional)
-    - [Organizaciones Agiles](#organizaciones-agiles)
-      - [Ventajas del modelo Agil](#ventajas-del-modelo-agil)
-      - [Desventajas del modelo Agil](#desventajas-del-modelo-agil)
-  - [Comparacion entre ambas metodologias:](#comparacion-entre-ambas-metodologias)
-- [Evolucion de metodos de desarrollo de software](#evolucion-de-metodos-de-desarrollo-de-software)
-      - [La crisis del software](#la-crisis-del-software)
-  - [Metodologias tradicionales](#metodologias-tradicionales)
-      - [Estructura lineal y secuencial:](#estructura-lineal-y-secuencial)
-      - [Conjunto de practicas de desarrollo de software que priorizan la flexibilidad y entrega continua de valor](#conjunto-de-practicas-de-desarrollo-de-software-que-priorizan-la-flexibilidad-y-entrega-continua-de-valor)
-      - [Aspectos claves de las Metodologias Agiles:](#aspectos-claves-de-las-metodologias-agiles)
-  - [Que modelo es el que mas conviene?](#que-modelo-es-el-que-mas-conviene)
-  - [Comparacion entre Metodos Tradicionales y Metodos Agiles:](#comparacion-entre-metodos-tradicionales-y-metodos-agiles)
-- [Valores y Principios de la Agilidad:](#valores-y-principios-de-la-agilidad)
-    - [Valores Agiles:](#valores-agiles)
-      - [El Manifiesto Agil:](#el-manifiesto-agil)
-    - [Principios Agiles:](#principios-agiles)
-  - [Reflexiones:](#reflexiones)
-  - [Cultura Agil:](#cultura-agil)
-    - [Caracteristicas de Cultura Agil:](#caracteristicas-de-cultura-agil)
-    - [Diferencia entre Agilidad y Velocidad:](#diferencia-entre-agilidad-y-velocidad)
-    - [Resultados de las organizaciones agiles:](#resultados-de-las-organizaciones-agiles)
+
+1. [Organizaciones Tradicionales y Agiles](#organizaciones-tradicionales-y-agiles)
+   1.1. [Organizaciones Tradicionales](#organizaciones-tradicionales)
+       - [Ventajas del modelo tradicional](#ventajas-del-modelo-tradicional)
+       - [Desventajas del modelo tradicional](#desventajas-del-modelo-tradicional)
+   1.2. [Organizaciones Agiles](#organizaciones-agiles)
+       - [Ventajas del modelo Agil](#ventajas-del-modelo-agil)
+       - [Desventajas del modelo Agil](#desventajas-del-modelo-agil)
+   1.3. [Comparacion entre ambas metodologias](#comparacion-entre-ambas-metodologias)
+   
+2. [Evolucion de metodos de desarrollo de software](#evolucion-de-metodos-de-desarrollo-de-software)
+   2.1. [La crisis del software](#la-crisis-del-software)
+   2.2. [Metodologias tradicionales](#metodologias-tradicionales)
+   2.3. [Metodologias Agiles](#metodologias-agiles)
+       - [Aspectos claves de las Metodologias Agiles](#aspectos-claves-de-las-metodologias-agiles)
+
+3. [Que modelo es el que mas conviene?](#que-modelo-es-el-que-mas-conviene)
+
+4. [Comparacion entre Metodos Tradicionales y Metodos Agiles](#comparacion-entre-metodos-tradicionales-y-metodos-agiles)
+
+5. [Valores y Principios de la Agilidad](#valores-y-principios-de-la-agilidad)
+   5.1. [Valores Agiles](#valores-agiles)
+       - [El Manifiesto Agil](#el-manifiesto-agil)
+   5.2. [Principios Agiles](#principios-agiles)
+
+6. [Reflexiones](#reflexiones)
+
+7. [Cultura Agil](#cultura-agil)
+   7.1. [Caracteristicas de Cultura Agil](#caracteristicas-de-cultura-agil)
+   7.2. [Diferencia entre Agilidad y Velocidad](#diferencia-entre-agilidad-y-velocidad)
+   7.3. [Resultados de las organizaciones agiles](#resultados-de-las-organizaciones-agiles)
 
 
 ### Organizaciones Tradicionales:
