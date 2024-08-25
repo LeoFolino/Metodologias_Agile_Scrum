@@ -40,6 +40,17 @@
      - [Los 5 principios de Lean en el desarrollo de software](#los-5-principios-de-lean-en-el-desarrollo-de-software)
      - [Desafios y criticas a Lean y Agile](#desafios-y-criticas-a-lean-y-agile)
      - [Caso de estudio: Lean en el desarrollo de software](#caso-de-estudio-lean-en-el-desarrollo-de-software)
+     - [Lean Startup](#lean-startup)
+       - [Enfoque en el cliente](#enfoque-en-el-cliente)
+       - [Desarrollo iterativo](#desarrollo-iterativo)
+       - [Validacion de Hipotesis](#validacion-de-hipotesis)
+       - [Producto minimo viable (MVP)](#producto-minimo-viable-mvp)
+       - [Aprendizaje Validado](#aprendizaje-validado)
+       - [Pivotar o Preservar](#pivotar-o-preservar)
+     - [Desafios la implementacion de Lean Startup](#desafios-la-implementacion-de-lean-startup)
+     - [Ventajas en adoptar Lean Startup](#ventajas-en-adoptar-lean-startup)
+     - [Diferencias con enfoques tradicionales](#diferencias-de-lean-startup-con-enfoques-tradicionales)
+   - [Kanban](#kanban)
 
 # Organizaciones Tradicionales y Agiles
 ### Organizaciones Tradicionales:
@@ -241,7 +252,9 @@ Las herramientas ágiles facilitan:
 > Las herramientas ágiles potencian los marcos de trabajo, transformando la colaboración, eficiencia y transparencia en pilares de un cultura ágil efectiva.  
   
 [Volver al índice](#índice)
-
+  
+---
+  
 # Marcos de Trabajo Agiles:  
   
 ## Lean  
@@ -274,3 +287,55 @@ Los principios de lean se convirtieron en una fuente de inspiracion para poder a
 >Lo siguiente fue el mapeo de la cadena de valor, desgloso su proceso de desarrollo de software en etapas individuales para detectar cuales son las etapas que no agregaban valor. Al eliminar o simplificar estas etapas lograron acortar los tiempos.  
 >Crearon un flujo continuo de software, CI-CD.  
 >Implementaron el sistema pull. En lugar de tener un plan rigido, empezaron a trabajar en etapas mas cortas y recolectar rapidamente informacion de los clientes.  
+
+[Volver al índice](#índice)
+
+### Lean Startup
+
+Lean Startup es una metodologia que transformo el mundo del emprendimiento y el desarrollo de productos digitales:  
+**El enfoque es *"aprender rapido fallando rapido"***  
+>Lo que difiere Lean startup de Lean Manufacturing, es que Lean Startup se enfoca en experimentacion y adaptacion, y Lean Manufacturing se enfoca en la eficiencia del proceso  
+![#](/capturas/14.jpg)
+
+  
+
+#### Caracteristicas:
+##### Enfoque en el cliente
+Lean Startup pone al cliente en el centro de todo el proceso de desarrollo. No se desarrolla en lo que creemos que quieren, sino en lo que quieren mediante feedback en las primeras etapas del desarrollo.
+
+  
+##### Desarrollo iterativo:
+Desarrollar una version inicial del producto, medir y aprender de los resultados para luego hacer los ajustes y modificaciones necesarios.
+
+##### Validacion de Hipotesis:
+Al principio del proceso de desarrollo se formulan una serie de hipotesis. Luego se diseñan experimentos para validar o invalidar estas hipotesis.
+
+##### Producto minimo viable (MVP):
+MVP es la version mas simplificada de un producto que permite recopilar la maxima cantidad de aprendizaje validado sobre los clientes con el menor esfuerzo. El objetivo no es desarrollar un producto fin al sino aprender sobre lo que los clientes realmente quieren y necesitan.
+
+##### Aprendizaje Validado:
+El objetivo principal no es simplemente hacer dinero, o servir a los clientes. Sino aprender como construir un negocio sostenible y viable.
+
+##### Pivotar o Preservar:
+Pivotar es hacer cambios significativos, y Preservar es mantener lo realizado y mejorar u optimizar el producto actual.
+
+#### Desafios la implementacion de Lean Startup:
+   - Cambio cultural y resistencia organizacional.
+   - Manejo de la incertudimbre y la ambiguedad.
+   - Desafios de implementacion practica.
+   - Gestion de expectativas y metricas de exito.
+   - Enfoque en el aprendizaje vs resultados inmediatos.
+
+#### Ventajas en adoptar Lean Startup:
+   - Enfoque en el cliente.
+   - Agilidad y adaptabilidad.
+   - Optimizacion de recursos.
+   - Innovacion y diferenciacion en el mercado.
+   - Reduccion de riesgos.
+
+#### Diferencias de Lean Startup con enfoques tradicionales:
+![#](/capturas/15.jpg)  
+  
+[Volver al índice](#índice)
+
+## Kanban
