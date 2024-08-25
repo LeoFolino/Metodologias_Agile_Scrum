@@ -1,12 +1,12 @@
 ## Índice
 
 1. [Organizaciones Tradicionales y Agiles](#organizaciones-tradicionales-y-agiles)  
-  - [Organizaciones Tradicionales](#organizaciones-tradicionales)  
-    - [Ventajas Del Modelo Tradicional](#ventajas-del-modelo-tradicional)  
-    - [Desventajas del modelo tradicional](#desventajas-del-modelo-tradicional)  
-  - [Organizaciones Agiles](#organizaciones-agiles)  
-    - [Ventajas del modelo Agil](#ventajas-del-modelo-agil)  
-    - [Desventajas del modelo Agil](#desventajas-del-modelo-agil)  
+     - [Organizaciones Tradicionales](#organizaciones-tradicionales)  
+       - [Ventajas Del Modelo Tradicional](#ventajas-del-modelo-tradicional)  
+       - [Desventajas del modelo tradicional](#desventajas-del-modelo-tradicional)  
+     - [Organizaciones Agiles](#organizaciones-agiles)  
+       - [Ventajas del modelo Agil](#ventajas-del-modelo-agil)  
+       - [Desventajas del modelo Agil](#desventajas-del-modelo-agil)  
   - [Comparacion entre ambas metodologias](#comparacion-entre-ambas-metodologias)  
 
 2. [Evolucion de metodos de desarrollo de software](#evolucion-de-metodos-de-desarrollo-de-software)  
