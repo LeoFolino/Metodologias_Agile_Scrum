@@ -107,7 +107,11 @@ El manifiesto Agil (Creado en 2001) fue elaborado por un grupo de expertos en de
 Estos valores no solo ofrecen una guia para la creacion de software, sino que tambien **apunta a un cambio cultural en las organizaciones**, reflejan un cambio a una mayor agilidad en todas las areas de una empresa.
 
 #### El Manifiesto Agil:
-1. Individuos e interacciones sobre procesos y herramientas. (Resalta la importancia de las personas y sus interacciones en el equipo. En lugar de depender estrictamente de un software de gestion de proyectos, se fomenta la comunicacion directa, reuniones y sesiones de trabajo)
-2. Software funcional sobre documentacion exhaustiva.
-3. Colaboracion con el cliente sobre negociacion de contratos.
-4. Responder al cambio sobre seguir un plan.
+1. Individuos e interacciones sobre procesos y herramientas. (Resalta la importancia de las personas y sus interacciones en el equipo. En lugar de depender estrictamente de un software de gestion de proyectos, se fomenta la comunicacion directa, reuniones y sesiones de trabajo colaborativo. Esto no significa descartar las herramientas, sino usarla como apoyo para las interacciones humanas).
+2. Software funcional sobre documentacion exhaustiva. (El enfoque esta en producir software que funcione y aporte valor real en lugar dedicar esfuerzo excesivo a la documentacion detallada que luego queda desactualizada)
+3. Colaboracion con el cliente sobre negociacion de contratos. (Prioriza trabajar mano a mano con el cliente. Ej: Equipo de desarrollo en constante contacto con el cliente presentando el progreso para asi alinear cambios, correcciones y ajustes del proyecto.)
+4. Responder al cambio sobre seguir un plan.(Fomenta la adaptabilidad y capacidad de responder a cambios inesperados.)
+
+### Principios Agiles:
+>Van a ofrecer una guia practica para implementar valores. Tienen en cuenta la entrega continua y adaptabilidad hasta la importancia en la comunicacion y mejora continua
+   1. Satisfacer al cliente mediante entregas tempranas y continuas de software valioso
