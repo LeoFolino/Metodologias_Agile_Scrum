@@ -21,7 +21,7 @@
         - [Valores Agiles](#valores-agiles)  
         - [El Manifiesto Agil](#el-manifiesto-agil)  
         - [Principios Agiles](#principios-agiles)  
-  - [Reflexiones](#reflexiones)  
+  - [Reflexion](#reflexiones)  
 
 3. [Cultura Agil](#cultura-agil)  
    - [Caracteristicas de Cultura Agil](#caracteristicas-de-cultura-agil)  
@@ -33,6 +33,10 @@
      - [Herramientas de integracion y despliegue continuo](#herramientas-de-integracion-y-despliegue-continuo)
      - [Herramientas de monitoreo y feedback](#herramientas-de-monitoreo-y-feedback)
    - [Reflexion](#reflexion)
+
+4. [Marcos de Trabajo Agiles](#marcos-de-trabajo-agiles)
+   - [Lean](#lean)
+     - [Introduccion](#introduccion-a-lean)
 
 # Organizaciones Tradicionales y Agiles
 ### Organizaciones Tradicionales:
@@ -234,3 +238,20 @@ Las herramientas ágiles facilitan:
 > Las herramientas ágiles potencian los marcos de trabajo, transformando la colaboración, eficiencia y transparencia en pilares de un cultura ágil efectiva.  
   
 [Volver al índice](#índice)
+
+# Marcos de Trabajo Agiles:  
+  
+## Lean  
+
+### Introduccion a Lean:  
+El metodo lean con origen en la manufactura se adapto con exito al ambito del desarrollo de software permitiendo gestionar proyectos agiles y crear sistemas eficientes y centrados en el usuario, impulsando innovaciones y mejoras continuas
+
+Parte del desarrollo de sistema de Toyota:
+![lean](/capturas/11.jpg)  
+  
+Los principios de lean se convirtieron en una fuente de inspiracion para poder afrontar los desafios en el desarrollo de software.
+  - Just in time
+  - Mejora contina y adaptabilidad
+  - Eficiencia del equipo
+  - Eliminacion de desperdicios
+  - Entregar valor al cliente
