@@ -27,6 +27,12 @@
    - [Caracteristicas de Cultura Agil](#caracteristicas-de-cultura-agil)  
    - [Diferencia entre Agilidad y Velocidad](#diferencia-entre-agilidad-y-velocidad)  
    - [Resultados de las organizaciones agiles](#resultados-de-las-organizaciones-agiles)  
+   - [Introduccion a las metodologias agiles](#introduiccion-a-las-metodologias-agiles)
+     - [Herramientas de planificacion y seguimiento](#herramientas-de-planificacion-y-seguimiento)
+     - [Herramientas de comunicacion y colaboracion](#herramientas-de-comunicacion-y-colaboracion)
+     - [Herramientas de integracion y despliegue continuo](#herramientas-de-integracion-y-despliegue-continuo)
+     - [Herramientas de monitoreo y feedback](#herramientas-de-monitoreo-y-feedback)
+   - [Reflexion](#reflexion)
 
 # Organizaciones Tradicionales y Agiles
 ### Organizaciones Tradicionales:
@@ -60,8 +66,6 @@ Estructura plana, con menos niveles jerarquicos y mas redes de equipos intercone
 #### Desventajas del modelo Agil
 - Dificultad para instaurar una vision de equipo
 - Falta de procesos definidos
-
-[Volver al índice](#índice)
 
 ## Comparacion entre ambas metodologias:
 
@@ -196,4 +200,37 @@ Estos valores no solo ofrecen una guia para la creacion de software, sino que ta
   3. Eficiencia operativa mejorada.
   4. Mayor motivacion y satisfaccion del equipo.
 
+>La cultura agil trasciende metodos y herramientas. Es un viaje hacia la excelencia operativa, la innovacion continua y el exito compartido.
+
+[Volver al índice](#índice)
+
+## Introduiccion a las metodologias agiles  
+
+Las herramientas ágiles facilitan:
+  - La planificación y seguimiento de proyectos.
+  - Refuerzan los principios de colaboración, transparencia y adaptabilidad.
+  - Y maximizan la eficiencia y efectividad del trabajo del equipo.
+
+#### Herramientas de planificacion y seguimiento:  
+  
+>Es software o sistemas diseñados para ayudar en la organización, programación, y seguimiento del progreso de proyectos o tareas. Algunas de las herramientas más populares para la gestión de proyectos ágiles son JIRA y Trello  
+![JiraTrello](/capturas/8.jpg)  
+
+#### Herramientas de comunicacion y colaboracion:  
+  
+>Las herramientas de comunicación y colaboración son plataformas y software diseñados para facilitar la interacción, el trabajo en equipo y el intercambio de información entre individuos y grupos. Como por ejemplo Microsoft Teams y Slack
+![TeamSlack](/capturas/9.jpg)  
+
+#### Herramientas de integracion y despliegue continuo:  
+  
+>Las herramientas integración y despliegue continuo son fundamentales en el desarrollo de software moderno. Permitiendo automatizar partes del proceso de desarrollo para mejorar la eficiencia, calidad y velocidad de entrega. Algunas de las herramientas más populares en este ámbito son Jenkins y Git
+![JenkinsGitHub](/capturas/10.jpg)  
+
+#### Herramientas de monitoreo y feedback:  
+  
+>Las herramientas de monitoreo y retroalimentación son esenciales para la gestión de proyectos. Estas herramientas ayudan a las organizaciones y a los equipos a rastrear el rendimiento, obtener información valiosa y mejorar continuamente sus procesos y productos.
+
+### Reflexion:
+> Las herramientas ágiles potencian los marcos de trabajo, transformando la colaboración, eficiencia y transparencia en pilares de un cultura ágil efectiva.  
+  
 [Volver al índice](#índice)
