@@ -37,6 +37,9 @@
 4. [Marcos de Trabajo Agiles](#marcos-de-trabajo-agiles)
    - [Lean](#lean)
      - [Introduccion](#introduccion-a-lean)
+     - [Los 5 principios de Lean en el desarrollo de software](#los-5-principios-de-lean-en-el-desarrollo-de-software)
+     - [Desafios y criticas a Lean y Agile](#desafios-y-criticas-a-lean-y-agile)
+     - 
 
 # Organizaciones Tradicionales y Agiles
 ### Organizaciones Tradicionales:
@@ -243,7 +246,7 @@ Las herramientas ágiles facilitan:
   
 ## Lean  
 
-### Introduccion a Lean:  
+#### Introduccion a Lean:  
 El metodo lean con origen en la manufactura se adapto con exito al ambito del desarrollo de software permitiendo gestionar proyectos agiles y crear sistemas eficientes y centrados en el usuario, impulsando innovaciones y mejoras continuas
 
 Parte del desarrollo de sistema de Toyota:
@@ -255,3 +258,19 @@ Los principios de lean se convirtieron en una fuente de inspiracion para poder a
   - Eficiencia del equipo
   - Eliminacion de desperdicios
   - Entregar valor al cliente
+
+#### Los 5 principios de Lean en el desarrollo de software:
+
+![11](/capturas/12.jpg)
+
+#### Desafios y criticas a Lean y Agile
+
+![#](/capturas/13.jpg)
+
+### Caso de estudio: Lean en el desarrollo de software
+
+>Esta historia trata sobre la empresa SoftTech que sufre retrasos en entregas, presupuestos sobrepasados y desconexion entre lo que producia el equipo y lo que el cliente necesita
+>Lo primero que realizaron a traves de encuestas, reuniones de feedback y analisis de datos, comprendieron que es lo que el cliente queria o necesitaba
+>Lo siguiente fue el mapeo de la cadena de valor, desgloso su proceso de desarrollo de software en etapas individuales para detectar cuales son las etapas que no agregaban valor. Al eliminar o simplificar estas etapas lograron acortar los tiempos.
+>Crearon un flujo continuo de software, CI-CD.
+>Implementaron el sistema pull. En lugar de tener un plan rigido, empezaron a trabajar en etapas mas cortas y recolectar rapidamente informacion de los clientes.
