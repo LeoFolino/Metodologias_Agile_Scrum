@@ -1,4 +1,32 @@
 # Organizaciones Tradicionales y Agiles
+## Índice
+- [Organizaciones Tradicionales y Agiles](#organizaciones-tradicionales-y-agiles)
+  - [Índice](#índice)
+    - [Organizaciones Tradicionales:](#organizaciones-tradicionales)
+      - [Ventajas del modelo tradicional](#ventajas-del-modelo-tradicional)
+      - [Desventajas del modelo tradicional](#desventajas-del-modelo-tradicional)
+    - [Organizaciones Agiles](#organizaciones-agiles)
+      - [Ventajas del modelo Agil](#ventajas-del-modelo-agil)
+      - [Desventajas del modelo Agil](#desventajas-del-modelo-agil)
+  - [Comparacion entre ambas metodologias:](#comparacion-entre-ambas-metodologias)
+- [Evolucion de metodos de desarrollo de software](#evolucion-de-metodos-de-desarrollo-de-software)
+      - [La crisis del software](#la-crisis-del-software)
+  - [Metodologias tradicionales](#metodologias-tradicionales)
+      - [Estructura lineal y secuencial:](#estructura-lineal-y-secuencial)
+      - [Conjunto de practicas de desarrollo de software que priorizan la flexibilidad y entrega continua de valor](#conjunto-de-practicas-de-desarrollo-de-software-que-priorizan-la-flexibilidad-y-entrega-continua-de-valor)
+      - [Aspectos claves de las Metodologias Agiles:](#aspectos-claves-de-las-metodologias-agiles)
+  - [Que modelo es el que mas conviene?](#que-modelo-es-el-que-mas-conviene)
+  - [Comparacion entre Metodos Tradicionales y Metodos Agiles:](#comparacion-entre-metodos-tradicionales-y-metodos-agiles)
+- [Valores y Principios de la Agilidad:](#valores-y-principios-de-la-agilidad)
+    - [Valores Agiles:](#valores-agiles)
+      - [El Manifiesto Agil:](#el-manifiesto-agil)
+    - [Principios Agiles:](#principios-agiles)
+  - [Reflexiones:](#reflexiones)
+  - [Cultura Agil:](#cultura-agil)
+    - [Caracteristicas de Cultura Agil:](#caracteristicas-de-cultura-agil)
+    - [Diferencia entre Agilidad y Velocidad:](#diferencia-entre-agilidad-y-velocidad)
+    - [Resultados de las organizaciones agiles:](#resultados-de-las-organizaciones-agiles)
+
 
 ### Organizaciones Tradicionales:
 
@@ -131,3 +159,25 @@ Estos valores no solo ofrecen una guia para la creacion de software, sino que ta
   >Adoptar la agilidad es mas que seguir reglas, es transformar nuestra forma de trabajar y pensar, fomentando la adaptabilidad, colaboracion , entrega, reflexion y mejora continua.
 
 ---
+## Cultura Agil:
+
+>Una cultura agil no se limita solo a una serie de practicas o metodos, cuando hablamos de una cultura agil nos referimos a una filosofia que se encuentra en cada aspecto y area de una organizacion.
+>Una cultura agil se caracteriza por poner enfgasis en la flexibilidad y adaptacion, las interacciones humanas, la comunicacion y la colaboracion.
+
+### Caracteristicas de Cultura Agil:
+  1. Flexibilidad y adaptabilidad.
+  2. Colaboracion y comunicacion.
+  3. Empoderamiento y autonomia del equipo.
+  4. Iteraciones y mejora continua.
+  5. Foco en el cliente.
+
+### Diferencia entre Agilidad y Velocidad:
+![EsquemaVelozAgil](/capturas/7.jpg)
+>Ser agil no es ser rapido. Mientras la velocidad aplica a cuan rapido se puede finalizar el proyecto, la agilidad es la velocidad en la que finalizamos el proyecto sumado a la flexibilidad que tiene el equipo de adaptarse a todos los obstaculos y cambios que se generen en el transcurso del mismo. Ej: Una empresa que actualiza su software en base a las tendencias actuales, es una empresa que demuestra agilidad.
+
+### Resultados de las organizaciones agiles:
+  1. Mayor satisfaccion del cliente.
+  2. Mejora en la calidad del producto.
+  3. Eficiencia operativa mejorada.
+  4. Mayor motivacion y satisfaccion del equipo.
+
