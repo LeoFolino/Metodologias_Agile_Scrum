@@ -269,8 +269,8 @@ Los principios de lean se convirtieron en una fuente de inspiracion para poder a
 
 ### Caso de estudio: Lean en el desarrollo de software
 
->Esta historia trata sobre la empresa SoftTech que sufre retrasos en entregas, presupuestos sobrepasados y desconexion entre lo que producia el equipo y lo que el cliente necesita
->Lo primero que realizaron a traves de encuestas, reuniones de feedback y analisis de datos, comprendieron que es lo que el cliente queria o necesitaba
->Lo siguiente fue el mapeo de la cadena de valor, desgloso su proceso de desarrollo de software en etapas individuales para detectar cuales son las etapas que no agregaban valor. Al eliminar o simplificar estas etapas lograron acortar los tiempos.
->Crearon un flujo continuo de software, CI-CD.
->Implementaron el sistema pull. En lugar de tener un plan rigido, empezaron a trabajar en etapas mas cortas y recolectar rapidamente informacion de los clientes.
+>Esta historia trata sobre la empresa SoftTech que sufre retrasos en entregas, presupuestos sobrepasados y desconexion entre lo que producia el equipo y lo que el cliente necesita  
+>Lo primero que realizaron a traves de encuestas, reuniones de feedback y analisis de datos, comprendieron que es lo que el cliente queria o necesitaba  
+>Lo siguiente fue el mapeo de la cadena de valor, desgloso su proceso de desarrollo de software en etapas individuales para detectar cuales son las etapas que no agregaban valor. Al eliminar o simplificar estas etapas lograron acortar los tiempos.  
+>Crearon un flujo continuo de software, CI-CD.  
+>Implementaron el sistema pull. En lugar de tener un plan rigido, empezaron a trabajar en etapas mas cortas y recolectar rapidamente informacion de los clientes.  
