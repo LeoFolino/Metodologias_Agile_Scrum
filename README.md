@@ -39,7 +39,7 @@
      - [Introduccion](#introduccion-a-lean)
      - [Los 5 principios de Lean en el desarrollo de software](#los-5-principios-de-lean-en-el-desarrollo-de-software)
      - [Desafios y criticas a Lean y Agile](#desafios-y-criticas-a-lean-y-agile)
-     - 
+     - [Caso de estudio: Lean en el desarrollo de software](#caso-de-estudio-lean-en-el-desarrollo-de-software)
 
 # Organizaciones Tradicionales y Agiles
 ### Organizaciones Tradicionales:
