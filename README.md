@@ -113,5 +113,21 @@ Estos valores no solo ofrecen una guia para la creacion de software, sino que ta
 4. Responder al cambio sobre seguir un plan.(Fomenta la adaptabilidad y capacidad de responder a cambios inesperados.)
 
 ### Principios Agiles:
->Van a ofrecer una guia practica para implementar valores. Tienen en cuenta la entrega continua y adaptabilidad hasta la importancia en la comunicacion y mejora continua
-   1. Satisfacer al cliente mediante entregas tempranas y continuas de software valioso
+>Van a ofrecer una guia practica para implementar valores. Tienen en cuenta la entrega continua y adaptabilidad hasta la importancia en la comunicacion y mejora continua.
+   1. Satisfacer al cliente mediante entregas tempranas y continuas de software valioso. (Centrarse en comprender y satisfacer las necesidades del cliente por medio de entregas frecuentes [versiones menores])
+   2. Bienvenidos los cambios en los requisitos, incluso en etapas tardias de desarrollo.
+   3. Entregar software funcionando frecuentemente entre dos semanas a dos meses. (Crear un ciclo de feedback corto)
+   4. Los profesionales del negocio y los desarrolladores deben trabajar juntos diariamente a lo largo del proyecto. (Hace foco en la comunicacion entre los equipos)
+   5. Construir proyectos alrededor de individuos motivados, dandoles el entorno y apoyo que necesitan. (Se enfoca en el capital humano como el punto mas alto)
+   6. El metodo mas eficiente y efectivo de transmitir informacion es la conversacion cara a cara. (Enfoca en que la comunicacion directa construye un equipo mas conectado y agil para llegar a un consenso)
+   7. Software funcionando como la principal medida de progreso. (Que cada incremento de software añada un incremento de valor para el usuario)
+   8. Los procesos agiles promueben un desarrollo sostenible. (Equilibrio entre la vida laboral y personal)
+   9. La atencion continua a la excelencia tecnica y al buen diseño mejora la agilidad. (Equipo buscando mejor calidad de codigo, bien documentado y construido con practicas solidas)
+   10. La simplicidad es esencial. (Destaca la importancia de la eficiencia descartando trabajo innecesario)
+   11. Los mejores arquitectos, requisitos, y diseños emergen de equipos auto-organizados. (Se reconoce el valor de la autonomia y auto-organizacion del equipo)
+   12. A intervalos regulares, el equipo reflexiona sobre como ser mas efectivo y ajusta su comportamiento en consecuencia. (La mejora continaua es el nucleo de este principio)
+
+## Reflexiones:
+  >Adoptar la agilidad es mas que seguir reglas, es transformar nuestra forma de trabajar y pensar, fomentando la adaptabilidad, colaboracion , entrega, reflexion y mejora continua.
+
+---
