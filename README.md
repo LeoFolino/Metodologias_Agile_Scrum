@@ -51,6 +51,15 @@
      - [Ventajas en adoptar Lean Startup](#ventajas-en-adoptar-lean-startup)
      - [Diferencias con enfoques tradicionales](#diferencias-de-lean-startup-con-enfoques-tradicionales)
    - [Kanban](#kanban)
+     - [Introduccion a Kanban](#introduccion-a-kanban)
+       - [Principios clave de Kanban](#principios-clave-de-kanban)
+       - [Ventajas de Kanban](#ventajas-de-kanban)
+       - [Desventajas de Kanban](#desventajas-de-kanban)
+     - [WIP, DOR y DOD](#wip-dor-y-dod)
+       - [Work In Progress (WIP)](#work-in-progress-wip)
+       - [Definition Of Ready (DOR)](#definition-of-ready-dor)
+       - [Definition Of Done (DOD)](#definition-of-done-dod)
+       - 
 
 # Organizaciones Tradicionales y Agiles
 ### Organizaciones Tradicionales:
@@ -339,3 +348,51 @@ Pivotar es hacer cambios significativos, y Preservar es mantener lo realizado y 
 [Volver al índice](#índice)
 
 ## Kanban
+
+### Introduccion a Kanban:
+>Enfocado en transformar la gestion de proyectos con eficiencia, adaptabilidad y vision.  
+  
+>El origen y la filosofia de Kanban
+[#](/capturas/16.jpg)  
+
+##### Principios clave de Kanban:
+- Visualizar el trabajo.
+- Limitar el trabajo en progreso.
+- Gestionar el flujo de trabajo.
+- Mejora continua.
+
+##### Ventajas de Kanban:
+- Mejora la visibilidad.
+- Flexibilidad.
+- Eficiencia en el flujo de trabajo.
+- Mejora continua.
+- Moral del equipo.
+
+##### Desventajas de Kanban:
+- Resistencia al cambio.
+- Menos efectivo en proyectos estructurados.
+- Gestion del tablero.
+- Proyectos grandes o distribuidos.
+- Falta de planificacion a largo plazo.
+
+### WIP, DOR y DOD:
+>Wip -> Work in Progress | DOR --> Definition of Ready | DOD --> Definition of Done
+
+#### Work In Progress (WIP):
+- Es la cantidad de tareas en curso en un momento dado
+- Previene la sobre carga y mejora la eficiencia
+- Reduce el estres y mejora la moral del equipo
+- Varia segun el tamaño y capacidad del equipo, complejidad de las tareas y caracteristicas del proyecto
+
+#### Definition Of Ready (DOR):
+- Establece criterios para determinar cuando una tarea esta listo para ser trabajada
+- Actua como un acuerdo entre todo el equipo
+- Asegura la comprension y calidad de requisitos y expectativas, herramientas u otros
+- Los criterios tomados deben ser realistas, medibles y comprensibles
+- Previene retrasos y malos entendidos
+
+#### Definition Of Done (DOD):
+- Establece criterios para determinar cuando una tarea esta completamente finalizada
+- Actua como un acuerdo entre todo el equipo
+- Debe reflejar las necesidades del proyecto y capacidades del equipo
+- Evita el avance de trabajo incompleto o de baja calidad
